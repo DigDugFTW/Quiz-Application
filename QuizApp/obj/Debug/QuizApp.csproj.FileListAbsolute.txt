@@ -1,0 +1,10 @@
+C:\Users\coolt\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\coolt\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\coolt\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csprojResolveAssemblyReference.cache
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Form1.resources
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.Cache
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\coolt\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
